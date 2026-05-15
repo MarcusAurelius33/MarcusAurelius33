@@ -38,6 +38,7 @@ Me chamo Marcus Aurelius Costa de Paiva e tenho 21 anos. Atualmente cursando Tec
 
 
 ### 📫 Vamos Conversar?
+* 🌐 Portfólio: [marcuspaiva.vercel.app](https://marcuspaiva.vercel.app/)
 * 📧 Email: marcuspaiva2026@gmail.com
 * 💼 LinkedIn: [/in/marcus-paiva-a501713a5](https://linkedin.com/in/marcus-paiva-a501713a5)
 * 🐙 GitHub: [MarcusAurelius33](https://github.com/MarcusAurelius33)
