@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Marcus Aurelius Costa de Paiva e tenho 21 anos. Atualmente cursando Tecnologia da Informação na UFRN.
+Me chamo Marcus Aurelius Costa de Paiva e tenho 22 anos. Atualmente cursando Tecnologia da Informação na UFRN.
 
 ### 🛠️ Tecnologias e Ferramentas
 
